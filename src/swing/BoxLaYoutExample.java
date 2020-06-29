@@ -1,4 +1,4 @@
-package com.jxuspt;
+package swing;
 
 import javax.swing.Box;
 import javax.swing.BoxLayout;

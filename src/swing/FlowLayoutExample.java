@@ -1,4 +1,4 @@
-package com.jxuspt;
+package swing;
 
 import java.awt.FlowLayout;
 
