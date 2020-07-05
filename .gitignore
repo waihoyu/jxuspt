@@ -1,0 +1,9 @@
+# 忽略文件列表
+#  注释内容
+.DS_Store
+src/*
+src/.DS_Store
+src/test.txt
+bin/
+lib/
+*.DS_Store
